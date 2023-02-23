@@ -1,4 +1,6 @@
 İlk stajım da yaptığım şirket odaklı kompleks bir oyunlaştırma projesi
+İlk projem olduğu için paylaştım kodlar ilk projem olmamdan kaynaklı olarak clean kod olmak ve güncel teknolojiler içermekten çok uzaktır.
+Şuan nasıl kodladığımı görmek için diğer projelere bakabilirsiniz
 SQL commandlar ile içerisinde excelden sql'e veri aktarma,ayda bir haftada bir
 gibi kıstlamaların olduğu butonlar ve küçük bir quiz oyunu vardır.
 En çok satan kişiye ve satış rakamlarına vb. göre puanlama yapılıp
